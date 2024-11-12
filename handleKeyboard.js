@@ -1,8 +1,8 @@
 // Load the click sound
-const clickSound = new Audio('click.mp3');
-const egaleSound = new Audio('egaleSound.mp3');
-const quitterSound = new Audio('quitterSound.mp3');
-const operationSound = new Audio('operationClick.mp3');
+const clickSound = new Audio('./audios/click.mp3');
+const egaleSound = new Audio('./audios/egaleSound.mp3');
+const quitterSound = new Audio('./audios/quitterSound.mp3');
+const operationSound = new Audio('./audios/operationClick.mp3');
 
 
 // Function to play sound
